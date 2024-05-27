@@ -1,0 +1,20 @@
+.container{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: aqua; */
+}
+h4{
+    font-size: 32px;
+    color: green;
+}
+button{
+    cursor: pointer;
+}
+.email{
+    margin-bottom: 10px;
+}
+.password{
+    margin-bottom: 10px;
+}
